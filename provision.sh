@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOLACE_IP=<IP Address of the VMR>:<admin port>
-CRED=<Solace VMR admin username>:< Solace VMR admin password >
+SOLACE_IP=192.168.0.103:8080
+CRED=admin:admin
 
 CREATE_VPN="
 <rpc semp-version="soltr/7_1_1">
