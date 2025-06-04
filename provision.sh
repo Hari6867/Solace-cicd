@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOLACE_IP=192.168.0.103:8080
-CRED=admin:admin
+SOLACE_IP=xxxxxxxxxxxx:8080
+CRED=xxxxxxxxxxx:xxxxxxxx
 
 CREATE_VPN="
 <rpc semp-version="soltr/7_1_1">
